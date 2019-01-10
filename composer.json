@@ -23,7 +23,8 @@
     "require-dev": {
         "ext-iconv": "*",
         "symfony/process": "~3.4|~4.0",
-        "twig/twig": "~1.34|~2.4"
+        "twig/twig": "~1.34|~2.4",
+        "phpunit/phpunit": "^7.4@dev"
     },
     "conflict": {
         "phpunit/phpunit": "<4.8.35|<5.4.3,>=5.0",
